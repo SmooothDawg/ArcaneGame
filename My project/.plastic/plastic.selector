@@ -1,0 +1,4 @@
+repository "My project/ArcaneGame@20067515303181@cloud"
+  path "/"
+    br "/main"
+    co "/main"
